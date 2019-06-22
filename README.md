@@ -1,8 +1,9 @@
 # apple-page
 Apple-copy Website with BootStrap By Siddharath Bhardwaj
+
+<html>
 <head>
-   
-    <title> Apple(India)</title>
+       <title> Apple(India)</title>
     <style>
         *{
            margin: 0;
@@ -81,3 +82,4 @@ Apple-copy Website with BootStrap By Siddharath Bhardwaj
 
     </div>
 </body>
+</html>
